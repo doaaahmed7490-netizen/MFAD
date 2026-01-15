@@ -1,0 +1,4 @@
+The HC3 dataset is available on Hugging Face and can be obtained by cloning its repository:
+git clone https://huggingface.co/datasets/Hello-SimpleAI/HC3
+The GloVe is available on Kaggle and can be downloaded from the following link:
+https://www.kaggle.com/datasets/rtatman/glove-global-vectors-for-word-representation
